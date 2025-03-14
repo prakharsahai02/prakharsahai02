@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c++,python,nodejs,nuxt,express,prisma,html,css,sass,js,vscode,csline=9" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,nodejs,nuxt,express,prisma,html,css,sass,js,vscode,csline=9" />
   </a>
 </p>
 <!--
